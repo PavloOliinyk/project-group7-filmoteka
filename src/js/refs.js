@@ -24,6 +24,7 @@ const Refs = {
   modalBtns: document.querySelectorAll('.button-modal'),
   modalCardsCloseBtn: document.querySelector('.button-close'),
   backdropModalCard: document.getElementById('backdrop'),
+   mask: document.querySelector('.mask'),
 };
 
 export default Refs;
