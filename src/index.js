@@ -10,4 +10,4 @@ import './js/trailers';
 import './js/back-to-top-btn';
 import './js/genres';
 import './js/modalCardOnOpen';
-import './js/spinner1';
+import './js/spinner';
