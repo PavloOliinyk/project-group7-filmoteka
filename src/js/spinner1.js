@@ -1,7 +1,7 @@
 
 window.addEventListener('load', () => {
-    mask.classList.add('hide');
+    refs.mask.classList.add('hide');
     setTimeout(() => {
-        mask.remove();
+        refs.mask.remove();
     }, 600);
 });
